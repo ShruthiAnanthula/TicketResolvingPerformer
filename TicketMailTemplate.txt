@@ -1,0 +1,6 @@
+Dear Associate,
+
+We have granted access for {0}.
+
+Regards,
+RPA Automation.
